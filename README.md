@@ -1,5 +1,5 @@
 # deep_learning
-deep learning project chongzhi li and xiuping liang
+deep learning project chongzhi li
 
 we use the gtzan dataset, you can dowload here:https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification
 
